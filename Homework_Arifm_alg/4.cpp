@@ -46,5 +46,6 @@ int main() {
     std::cout << "Предел при x -> +∞: " << limit_pos_inf << std::endl;
     std::cout << "Предел при x -> -∞: " << limit_neg_inf << std::endl;
 
-    return 0;
+   
+   return 0;
 }*/
